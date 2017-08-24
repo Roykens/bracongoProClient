@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+
+	<!-- THRAVVEL CORE SERVICE LAYER ERROR MESSAGES -->
+
+
+	<!-- Agency Service error messages -->
+	<error key="THRAVVELCOREAGENCYSERVICEERROR-001"
+		value="THRAVVELCOREAGENCYSERVICEERROR-001 - An error occurred while getting agencies matching a keyword" />
+	<error key="THRAVVELCOREAGENCYSERVICEERROR-002"
+		value="THRAVVELCOREAGENCYSERVICEERROR-002 - An error occurred while saving agency {0}" />
+	<error key="THRAVVELCOREAGENCYSERVICEERROR-003"
+		value="THRAVVELCOREAGENCYSERVICEERROR-003 - An error occurred while getting agency by its id" />
+	<error key="THRAVVELCOREAGENCYSERVICEERROR-004"
+		value="THRAVVELCOREAGENCYSERVICEERROR-004 - An error occurred while trying to delete agency {0}" />
+	<error key="THRAVVELCOREAGENCYSERVICEERROR-005"
+		value="THRAVVELCOREAGENCYSERVICEERROR-005 - An error occurred while trying to delete an entity by its id" />
+	<error key="THRAVVELCOREAGENCYSERVICEERROR-006"
+		value="THRAVVELCOREAGENCYSERVICEERROR-006 - An error occurred while trying to update agency {0}" />
+	<error key="THRAVVELCOREAGENCYSERVICEERROR-007"
+		value="THRAVVELCOREAGENCYSERVICEERROR-007 - An error occurred while getting all agencies " />
+
+	<!-- User Service error messages -->
+	<error key="THRAVVELCOREUSERSERVICEERROR-001"
+		value="THRAVVELCOREUSERSERVICEERROR-001 - An error occurred during registration process of {0}" />
+	<error key="THRAVVELCOREUSERSERVICEERROR-002"
+		value="THRAVVELCOREUSERSERVICEERROR-002 - User with number {0} does not exist" />
+	<error key="THRAVVELCOREUSERSERVICEERROR-003"
+		value="THRAVVELCOREUSERSERVICEERROR-003 - Sorry {0}, your password is wrong!" />
+	<error key="THRAVVELCOREUSERSERVICEERROR-004"
+		value="THRAVVELCOREUSERSERVICEERROR-004 - An error occurred when fetching user with number {0}" />
+	<error key="THRAVVELCOREUSERSERVICEERROR-005"
+		value="THRAVVELCOREUSERSERVICEERROR-005 - A user with number {0} already exist, and you are not that one!" />
+	<error key="THRAVVELCOREUSERSERVICEERROR-006"
+		value="THRAVVELCOREUSERSERVICEERROR-006 - An error occured while sending sms to {0} " />
+	<error key="THRAVVELCOREUSERSERVICEERROR-007"
+		value="THRAVVELCOREUSERSERVICEERROR-007 - An error occured while getting confirmation code for {0} " />
+	<error key="THRAVVELCOREUSERSERVICEERROR-008"
+		value="THRAVVELCOREUSERSERVICEERROR-008 - An error occured while setting confirmation value for {0} " />
+	<error key="THRAVVELCOREUSERSERVICEERROR-009"
+		value="THRAVVELCOREUSERSERVICEERROR-009 - An error occured while checking if user with number {0} is confirmed or not " />
+
+
+
+	<!-- Agency Service error messages -->
+	<error key="THRAVVELCORESTATIONSERVICEERROR-001"
+		value="THRAVVELCORESTATIONSERVICEERROR-001 - An error occurred while getting stations matching a keyword" />
+	<error key="THRAVVELCORESTATIONSERVICEERROR-002"
+		value="THRAVVELCORESTATIONSERVICEERROR-002 - An error occurred while saving station {0}" />
+	<error key="THRAVVELCORESTATIONSERVICEERROR-003"
+		value="THRAVVELCORESTATIONSERVICEERROR-003 - An error occurred while getting station by its id" />
+	<error key="THRAVVELCORESTATIONSERVICEERROR-004"
+		value="THRAVVELCORESTATIONSERVICEERROR-004 - An error occurred while trying to delete station {0}" />
+	<error key="THRAVVELCORESTATIONSERVICEERROR-005"
+		value="THRAVVELCORESTATIONSERVICEERROR-005 - An error occurred while trying to delete an entity by its id" />
+	<error key="THRAVVELCORESTATIONSERVICEERROR-006"
+		value="THRAVVELCORESTATIONSERVICEERROR-006 - An error occurred while trying to update station {0}" />
+	<error key="THRAVVELCORESTATIONSERVICEERROR-007"
+		value="THRAVVELCORESTATIONSERVICEERROR-007 - An error occurred while getting all station " />
+	<error key="THRAVVELCORESTATIONSERVICEERROR-008"
+		value="THRAVVELCORESTATIONSERVICEERROR-008 - An error occurred while getting the nearest stations around the user " />
+
+        <!-- Agency Service error messages -->
+	<error key="THRAVVELCORECOMMENTSERVICEERROR-001"
+		value="THRAVVELCORECOMMENTSERVICEERROR-001 - An error occurred while getting agencies matching a keyword" />
+	<error key="THRAVVELCORECOMMENTSERVICEERROR-002"
+		value="THRAVVELCORECOMMENTSERVICEERROR-002 - An error occurred while saving agency {0}" />
+	<error key="THRAVVELCORECOMMENTSERVICEERROR-003"
+		value="THRAVVELCORECOMMENTSERVICEERROR-003 - An error occurred while getting agency by its id" />
+	<error key="THRAVVELCORECOMMENTSERVICEERROR-004"
+		value="THRAVVELCORECOMMENTSERVICEERROR-004 - An error occurred while trying to delete agency {0}" />
+	<error key="THRAVVELCORECOMMENTSERVICEERROR-005"
+		value="THRAVVELCORECOMMENTSERVICEERROR-005 - An error occurred while trying to delete an entity by its id" />
+	<error key="THRAVVELCORECOMMENTSERVICEERROR-006"
+		value="THRAVVELCORECOMMENTSERVICEERROR-006 - An error occurred while trying to update agency {0}" />
+	<error key="THRAVVELCORECOMMENTSERVICEERROR-007"
+		value="THRAVVELCORECOMMENTSERVICEERROR-007 - An error occurred while getting all agencies " />
+
+        
+</messages>
